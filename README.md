@@ -40,4 +40,4 @@
 ##### 2. Buka aplikasi code editor yang anda miliki (disini saya menggunakan Netbeans IDE) atau code editor lain yang sudah terinstalasi extension untuk bahasa pemrograman JAVA.
 ##### 3. Buka file yang ingin dijalankan pada code editor anda dengan opsi "Open" lalu klik file yang ingin dibuka.
 ##### 4. Pastikan nama file yang ingin dibuka sudah benar dan semua library ataupun package yang berhubungan dengan program sudah terimpor dan terkoneksi dengan benar.
-##### 5. Jalankan program dengan menekan tombol "Ru".
+##### 5. Jalankan program dengan menekan tombol "Run".
